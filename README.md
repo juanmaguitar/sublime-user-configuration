@@ -4,12 +4,12 @@ This is my Sublime Text 2 user directory.
 ### How to install it
 
 1. Clone the repository into the `Packages\User` directory in the path
-    + Mac: `~/Library/Application Support/Sublime Text 2/Packages/User`
     + Windows: `C:\Users\<USER_NAME>\AppData\Roaming\Sublime Text 2\Packages` 
+    + Mac: `~/Library/Application Support/Sublime Text 2/Packages/User`
 
-        cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
-        rm -rf User
-        git clone https://pahko@github.com/pahko/sublime-text-2-personal-config.git User
+            cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
+            rm -rf User
+            git clone https://pahko@github.com/pahko/sublime-text-2-personal-config.git User
 
 2. Install Package Control
 
