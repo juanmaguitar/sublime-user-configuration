@@ -1,0 +1,19 @@
+{
+	"auto_upgrade_last_run": null,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Color Highlighter",
+		"Emmet",
+		"JSHint",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"Readme-Helper",
+		"Sass",
+		"sublime-jslint",
+		"TrailingSpaces"
+	]
+}

@@ -1,0 +1,10 @@
+*
+!.gitignore
+!Default (Linux).sublime-keymap
+!Default (OSX).sublime-keymap
+!Default (Windows).sublime-keymap
+!Package Control.sublime-settings
+!Preferences.sublime-settings
+!README.md
+!!Snippets/*
+!Builds/*
