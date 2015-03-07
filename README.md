@@ -17,4 +17,3 @@ This is my Sublime Text 2 user directory.
         curl "https://sublime.wbond.net/Package%20Control.sublime-package" -o "Package Control.sublime-package"
 
 3. run `Package Control: Upgrade/Overwrite All Packages`  from the command pallete (`Ctrl+Shift+P`). This will install all the packages.
-
