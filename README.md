@@ -9,7 +9,7 @@ This is my Sublime Text 2 user directory.
 
             cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
             rm -rf User
-            git clone https://pahko@github.com/pahko/sublime-text-2-personal-config.git User
+            git clone https://github.com/juanmaguitar/sublime-user-configuration.git User
 
 2. Install Package Control
 
