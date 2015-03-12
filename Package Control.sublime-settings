@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"Case Conversion",
 		"Color Highlighter",
 		"Emmet",
 		"JSHint",
@@ -14,6 +15,8 @@
 		"Readme-Helper",
 		"Sass",
 		"sublime-jslint",
+		"SublimeLinter",
+		"SublimeLinter-jscs",
 		"TrailingSpaces"
 	]
 }
