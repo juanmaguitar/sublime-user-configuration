@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
 	"detect_slow_plugins": false,
 	"draw_minimap_border": true,
 	"draw_white_space": "all",
@@ -8,6 +8,8 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"Markdown",
+		"sublime-jslint",
 		"Vintage"
 	],
 	"line_padding_bottom": 1,
